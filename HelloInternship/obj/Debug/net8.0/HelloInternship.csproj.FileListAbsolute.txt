@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\HelloInternship\bin\Debug\net8.0\HelloInternship.exe
+C:\Users\User\source\repos\HelloInternship\bin\Debug\net8.0\HelloInternship.deps.json
+C:\Users\User\source\repos\HelloInternship\bin\Debug\net8.0\HelloInternship.runtimeconfig.json
+C:\Users\User\source\repos\HelloInternship\bin\Debug\net8.0\HelloInternship.dll
+C:\Users\User\source\repos\HelloInternship\bin\Debug\net8.0\HelloInternship.pdb
+C:\Users\User\source\repos\HelloInternship\obj\Debug\net8.0\HelloInternship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HelloInternship\obj\Debug\net8.0\HelloInternship.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HelloInternship\obj\Debug\net8.0\HelloInternship.AssemblyInfo.cs
+C:\Users\User\source\repos\HelloInternship\obj\Debug\net8.0\HelloInternship.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HelloInternship\obj\Debug\net8.0\HelloInternship.dll
+C:\Users\User\source\repos\HelloInternship\obj\Debug\net8.0\refint\HelloInternship.dll
+C:\Users\User\source\repos\HelloInternship\obj\Debug\net8.0\HelloInternship.pdb
+C:\Users\User\source\repos\HelloInternship\obj\Debug\net8.0\HelloInternship.genruntimeconfig.cache
+C:\Users\User\source\repos\HelloInternship\obj\Debug\net8.0\ref\HelloInternship.dll
