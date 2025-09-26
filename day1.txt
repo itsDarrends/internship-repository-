@@ -1,1 +1,7 @@
 Hello Internship! Today is Day1 of my journey.
+Day 1 – First C# Program
+- Tools installed: Visual Studio 2022, Git
+- GitHub repo setup
+- Created HelloInternship console app
+- Program output verified
+- Project pushed to GitHub
